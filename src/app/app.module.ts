@@ -15,6 +15,7 @@ import { AppRoutingModule } from './app-routing.module';
 
 // Servicios
 import { InfoPaginaService } from './services/info-pagina.service';
+import { ProductosService } from './services/productos.service';
 
 
 @NgModule({
@@ -31,7 +32,10 @@ import { InfoPaginaService } from './services/info-pagina.service';
     AppRoutingModule,
     HttpClientModule
   ],
-  providers: [InfoPaginaService],
+  providers: [
+    InfoPaginaService,
+    ProductosService
+  ],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

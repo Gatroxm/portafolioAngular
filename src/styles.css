@@ -3294,3 +3294,12 @@
         transition: none !important;
     }
 }
+
+svg path,
+svg rect {
+    fill: black;
+}
+
+.text-center {
+    text-align: center;
+}
