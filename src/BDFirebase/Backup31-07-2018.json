@@ -1,0 +1,19 @@
+[ {
+  "frase" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.",
+  "nombre" : "Gustavo Adolfo",
+  "subtitulo" : "Desarrollador Front End",
+  "twitter" : "@Gatroxm",
+  "url" : "https://firebasestorage.googleapis.com/v0/b/angular-portafolio-3b604.appspot.com/o/team-1.jpg?alt=media&token=c44d9487-74fb-4c00-9a9d-022aec885052"
+}, {
+  "frase" : "Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit.",
+  "nombre" : "Isavel Barrientos",
+  "subtitulo" : "Founder / CEO",
+  "twitter" : "@angelinawidow",
+  "url" : "https://firebasestorage.googleapis.com/v0/b/angular-portafolio-3b604.appspot.com/o/team-2.jpg?alt=media&token=fb91f0e9-3d15-415e-b86b-481b7d58fcef"
+}, {
+  "frase" : "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+  "nombre" : "Patrick Anderson",
+  "subtitulo" : "Art Director",
+  "twitter" : "@patrickanderson",
+  "url" : "https://firebasestorage.googleapis.com/v0/b/angular-portafolio-3b604.appspot.com/o/team-3.jpg?alt=media&token=4f5ddcc1-1470-4f7a-88d9-622654723977"
+} ]
